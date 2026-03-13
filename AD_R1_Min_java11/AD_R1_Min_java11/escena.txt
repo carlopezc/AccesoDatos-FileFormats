@@ -1,0 +1,4 @@
+dimensiones 600 400
+rectangulo 20 20 200 150 #FF0000 fill=#FFCCCC sw=2 label=Caja_Roja
+circulo 300 200 80 #0000FF fill=#CCCCFF so=0.5
+linea 50 350 550 350 #000000 sw=5

@@ -1,0 +1,4 @@
+dimensiones 600
+rectangulo diez 2 100 150 #FF0000
+circulo 30 500 80 azul
+figurax 10 10

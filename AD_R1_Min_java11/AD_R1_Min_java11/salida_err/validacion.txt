@@ -1,0 +1,1 @@
+[ERROR] línea 1: Faltan W y H.

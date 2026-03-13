@@ -1,0 +1,5 @@
+dimensiones 800 600
+rectangulo 10 10 100 50 #FF0000
+circulo 200 200 50 #00FF00
+linea 0 0 800 600 #0000FF
+rectangulo 50 50 20 20 #000000

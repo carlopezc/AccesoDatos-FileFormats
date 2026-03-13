@@ -1,0 +1,11 @@
+{
+  "escena": {
+    "dimensiones": [800, 600],
+    "figuras": [
+      {"rectangulo": {"x":"10","y":"10","width":"100","height":"50","stroke-width":"3","stroke":"#FF0000","fill":"none"}},
+      {"circulo": {"cx":"200","cy":"200","r":"50","stroke-width":"3","stroke":"#00FF00","fill":"none"}},
+      {"linea": {"x1":"0","y1":"0","x2":"800","y2":"600","stroke-width":"3","stroke":"#0000FF"}},
+      {"rectangulo": {"x":"50","y":"50","width":"20","height":"20","stroke-width":"3","stroke":"#000000","fill":"none"}}
+    ]
+  }
+}
